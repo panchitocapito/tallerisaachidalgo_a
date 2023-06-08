@@ -7,4 +7,4 @@
 
 ## Fumcionamiento
 
-![](img/chocho.jpg)
+![](chocho.jpg)
